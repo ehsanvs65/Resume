@@ -1,0 +1,15 @@
+E:\Vahidi\project\resume\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.deps.json
+E:\Vahidi\project\resume\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.dll
+E:\Vahidi\project\resume\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.Bussines.pdb
+E:\Vahidi\project\resume\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.DAL.dll
+E:\Vahidi\project\resume\Resume\Resume.Bussines\bin\Debug\net8.0\Resume.DAL.pdb
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.AssemblyReference.cache
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.AssemblyInfoInputs.cache
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.AssemblyInfo.cs
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.CoreCompileInputs.cache
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.csproj.CopyComplete
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.dll
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\refint\Resume.Bussines.dll
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\Resume.Bussines.pdb
+E:\Vahidi\project\resume\Resume\Resume.Bussines\obj\Debug\net8.0\ref\Resume.Bussines.dll

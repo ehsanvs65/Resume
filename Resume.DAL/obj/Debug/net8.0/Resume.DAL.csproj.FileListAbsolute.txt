@@ -1,0 +1,11 @@
+E:\Vahidi\project\resume\Resume\Resume.DAL\bin\Debug\net8.0\Resume.DAL.deps.json
+E:\Vahidi\project\resume\Resume\Resume.DAL\bin\Debug\net8.0\Resume.DAL.dll
+E:\Vahidi\project\resume\Resume\Resume.DAL\bin\Debug\net8.0\Resume.DAL.pdb
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\Resume.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\Resume.DAL.AssemblyInfoInputs.cache
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\Resume.DAL.AssemblyInfo.cs
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\Resume.DAL.csproj.CoreCompileInputs.cache
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\Resume.DAL.dll
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\refint\Resume.DAL.dll
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\Resume.DAL.pdb
+E:\Vahidi\project\resume\Resume\Resume.DAL\obj\Debug\net8.0\ref\Resume.DAL.dll

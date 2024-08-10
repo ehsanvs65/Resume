@@ -1,0 +1,38 @@
+﻿
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+	
+	<partial name="_MetaTags"/>
+	<title>علی رضائی | @ViewData["Title"]</title>
+	<partial name="_HeaderReferences"/>
+	@await RenderSectionAsync("Styles",false)
+
+</head>
+<body>
+<partial name="_Loader"/>
+
+<main class="main">
+	<partial name="_TopHeader"/>
+
+	<div class="container gutter-top">
+
+		@await Component.InvokeAsync("Header")
+
+		<div class="row sticky-parent">
+
+			<partial name="_SideBar"/>
+			<!-- Content -->
+			<div class="col-12 col-md-12 col-lg-10">
+				@RenderBody()
+				<partial name="_Footer"/>
+			</div>
+		</div>
+	</div>
+</main>
+<partial name="_SiteTools"/>
+	
+<partial name="_FooterReferences"/>
+@await RenderSectionAsync("Scripts",false)
+</body>
+</html>
