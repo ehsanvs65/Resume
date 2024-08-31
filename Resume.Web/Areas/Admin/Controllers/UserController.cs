@@ -49,6 +49,7 @@ public class UserController:Controller
         }
 
         #endregion
+        var result = await _userService.CreateAsync(model);
         return View();
     }
 
@@ -58,6 +59,9 @@ public class UserController:Controller
 
     public async Task<IActionResult> Update(int id)
     {
+        var user = await _userService.GetForEditByIdAsync(id);
+        if (user == null)
+            return NotFound();
         return View();
     }
     [HttpPost]
@@ -71,6 +75,8 @@ public class UserController:Controller
         }
 
         #endregion
+
+        var result = await _userService.UpdateAsync(model);
         return View();
     }
 
